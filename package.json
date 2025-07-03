@@ -1,0 +1,10 @@
+{
+  "name": "devterms",
+  "version": "0.1.0",
+  "description": "\ud83d\udcda The crowdsourced dictionary for developers. Find definitions for technical terms, programming jargon, and more!",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
